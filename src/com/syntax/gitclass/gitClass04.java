@@ -17,14 +17,14 @@ public class gitClass04 {
 				for( int i=2; i<=10; i++)
 				{
 					sum=n1+n2;///1
-					System.out.print(" "+sum);
+					System.out.println(" "+sum);
 					n1=n2;
 					n2=sum;
 					
 					
 				}
 					
-
+System.out.println(" I am happy");
 				
 				
 				
